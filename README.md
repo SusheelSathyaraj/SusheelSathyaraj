@@ -22,7 +22,7 @@ Passionate about **system design**, **performance optimization**, and building s
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Data Migration Tool**](https://github.com/SusheelSathyaraj/Data-Migration-Tool) | Flexible, multi-database migration with MySQL, PostgreSQL, MongoDB + CSV sync. Supports full, incremental, and scheduled migrations with error logging & validation. | Go, React, Docker, Kubernetes |
+| [**Data Migration Tool**](https://github.com/SusheelSathyaraj/Data-Migration-Tool) | Flexible, multi-database migration with MySQL, PostgreSQL, MongoDB + CSV sync. Supports full, incremental, and scheduled migrations with error logging & validation. | Go, Docker, Kubernetes |
 | [**Custom Load Balancer**](https://github.com/SusheelSathyaraj/Go-Load-Balancer) | Lightweight Golang load balancer with round-robin and least-connections support. | Go |
 | [**URL Shortener**](https://github.com/SusheelSathyaraj/Go-URL-Shortener) | URL shortener with JWT authentication & PostgreSQL backend. | Go, PostgreSQL |
 
