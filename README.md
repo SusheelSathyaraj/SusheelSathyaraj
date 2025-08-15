@@ -39,7 +39,7 @@ I'm a **Backend Developer** with **7+ years of experience** building scalable we
 ---
 
 ## 📈 GitHub Stats
-![Susheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusheelSathyaraj&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+![Susheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusheelSathyaraj&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1850)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SusheelSathyaraj&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
