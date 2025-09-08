@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I'm a **Backend Developer** with **7+ years of experience** building scalable web applications, specializing in **Golang**.
+I'm a **Backend Developer** with **10 years of experience** building scalable web applications, specializing in **Golang**.
 
 🔹 **Expertise:** Microservices architecture, system design, and performance optimization  
 🔹 **Focus:** Cloud-native solutions with Kubernetes, Docker, and AWS  
@@ -32,14 +32,14 @@ I'm a **Backend Developer** with **7+ years of experience** building scalable we
 
 | Project | Description | Tech Stack | Impact |
 |---------|-------------|------------|--------|
-| [**Data Migration Tool**](https://github.com/SusheelSathyaraj/Data-Migration-Tool) | Flexible, multi-database migration with MySQL, PostgreSQL, MongoDB + CSV sync. Supports full, incremental, and scheduled migrations. Features incremental sync, error recovery & validation.| Go, Docker, Kubernetes | Reduced migration time by 70% |
+| [**Data Migration Tool**](https://github.com/SusheelSathyaraj/Data-Migration-Tool) | Flexible, multi-database migration with MySQL, PostgreSQL, MongoDB + CSV sync. Supports full, incremental, and scheduled migrations. Features incremental sync, error recovery & validation.| Go | Reduced migration time by 70% |
 | [**Custom Load Balancer**](https://github.com/SusheelSathyaraj/Go-Load-Balancer) | Lightweight Golang load balancer with round-robin and least-connections support. | Go | Handles 10K+ concurrent connections |
 | [**URL Shortener**](https://github.com/SusheelSathyaraj/Go-URL-Shortener) | URL shortener with JWT authentication & PostgreSQL backend. | Go, PostgreSQL | 99.9% uptime
 
 ---
 
 ## 📈 GitHub Stats
-![Susheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusheelSathyaraj&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+![Susheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusheelSathyaraj&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1850)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SusheelSathyaraj&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
